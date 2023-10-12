@@ -1,8 +1,4 @@
-﻿aaaaaaaa
+﻿# How to run
 __________
 
-- Bruh
-- aaa
-- a
-  -[X] a
-  -[ ] a
+You gotta open `bin/Release/net7.0/TouhouGame.exe`
